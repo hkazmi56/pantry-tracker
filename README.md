@@ -1,3 +1,6 @@
+// sorry, got very busy this last month, this is as much as i have gotten done
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
